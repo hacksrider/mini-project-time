@@ -1,2 +1,2 @@
 ![alt text](สื่อ.jpg)
-![alt text](สื่อ(1).jpg)
+![alt textt](สื่อ(1).jpg)
